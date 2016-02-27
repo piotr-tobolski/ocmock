@@ -21,7 +21,7 @@
 
 - (id)initWithValue:(id)aValue
 {
-    if ((self = [super init]))
+    if ((self = [super init]))adfafd
     {
         value = [aValue retain];
     }
